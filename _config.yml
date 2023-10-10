@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "aqua" #"contrast", "dark", "dirt", "neon", "mint", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "w0016"
+title                    : "WO0.."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "w0016"
+name                     : "WO0."
 description              : "bio & project & portfolio"
 URL                      : "https://w0016.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,10 +107,10 @@ analytics:
 author:
   name             : "Jung Woo"
   avatar           : "/assets/earth.png" # path of avatar image, e.g. 
-  bio              : "bio"
+  bio              : "studying architecture & cities"
   location         : "South Korea"
   email            : "w0016@snu.ac.kr"
-  links:
+  #links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:your.name@email.com"
