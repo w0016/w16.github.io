@@ -4,5 +4,8 @@ permalink: /portfolio/
 layout: posts
 ---
 
-# WRITE SOMETHING HERE
-## UPLOAD PICTURES HERE
+## WRITE SOMETHING HERE  
+
+## UPLOAD PICTURES HERE  
+
+
