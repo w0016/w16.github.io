@@ -1,7 +1,7 @@
 ---
 title: "PORTFOLIO"
 permalink: /portfolio/
-layout: post
+layout: single
 ---
 
 WRITE SOMETHING HERE
