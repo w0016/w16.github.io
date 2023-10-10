@@ -108,7 +108,7 @@ author:
   name             : "Jung Woo"
   avatar           : "/assets/town.png" # path of avatar image, e.g. 
   bio              : "Studying Architecture + Cities"
-  location         : "South Korea"
+  location         : "Seoul, Korea"
   email            : "w0016@snu.ac.kr"
   links:
     - #label: "w0016@snu.ac.kr"
