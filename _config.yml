@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" #"contrast", "dark", "dirt", "neon", "mint", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jung Woo Kim"
+title                    : "w0016"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "w0016"
@@ -105,11 +105,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jung Woo Kim"
+  name             : "Jung Woo"
   avatar           : "/assets/earth.png" # path of avatar image, e.g. 
-  bio              : "안녕하세요"
+  bio              : "bio"
   location         : "South Korea"
-  email            : "..."
+  email            : "w0016@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
