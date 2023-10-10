@@ -1,7 +1,8 @@
 ---
 title: "PORTFOLIO"
 permalink: /portfolio/
-layout: single
+layout: posts
 ---
 
-WRITE SOMETHING HERE
+# WRITE SOMETHING HERE
+## UPLOAD PICTURES HERE
