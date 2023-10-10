@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" #"contrast", "dark", "dirt", "neon", "mint", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WO0.."
+title                    : "WOO"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "WO0."
-description              : "bio & project & portfolio"
+name                     : "WOO"
+description              : " "
 URL                      : "https://w0016.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ author:
   location         : "South Korea"
   email            : "w0016@snu.ac.kr"
   links:
-    - label: "Email"
+    - #label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "w0016@snu.ac.kr"
     - label: "Website"
