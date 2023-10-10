@@ -110,10 +110,10 @@ author:
   bio              : "studying architecture & cities"
   location         : "South Korea"
   email            : "w0016@snu.ac.kr"
-  #links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
+      url: "w0016@snu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
