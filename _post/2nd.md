@@ -1,6 +1,6 @@
 ---
-title: "WORKING ON"
-permalink: /working_on/
+title: "sjjjj"
+permalink: /blog/
 layout: posts
 ---
   
