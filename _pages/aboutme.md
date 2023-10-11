@@ -4,6 +4,11 @@ permalink: /about/
 layout: single
 ---
   
+**Education**
+* 서울대학교 건축학과 공학박사 수료(2022)   
+* 서울대학교 건축학과 공학석사(2020)   
+* Pratt Institute, Bachelor of Architecture(2016)
+    
 **Publications**   
 * 실내공개공지 도입을 위한 초대형 업무시설 1층 공공공간 연구. 서울대학교 대학원 석사학위논문, 김정우 (2020).  
     
@@ -29,11 +34,6 @@ layout: single
 * 공간비용 채산제 개선에 관한 연구 (서울대학교/최재필/2019.11~2020.03)
 * 리모델링 유형별 프로토타입 구축 및 거주성능 향상 계획 기법 개발 (국토교통부/최재필/2019.01~2019.12)
 * IBS부지 활용방안 사전 기획연구 용역 (서울대학교산학협력단/최재필/2018.10~2019.01)
-
-**Education**
-* 서울대학교 건축학과 공학박사 수료(2022)   
-* 서울대학교 건축학과 공학석사(2020)   
-* Pratt Institute, Bachelor of Architecture(2016)   
 
 **Work Experience**   
 * Till Architecture, New York, Junior Architect (2016~2017) (Project TAKOI, MAGNET, https://undecorated.us/) 
