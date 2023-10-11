@@ -1,7 +1,7 @@
 ---
 title: "sjjjj"
 permalink: /blog/
-layout: posts
+layout: post
 ---
   
 ### brainstorm here
