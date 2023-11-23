@@ -39,3 +39,5 @@ layout: single
 * Till Architecture, New York, Junior Architect (2016~2017) (Project TAKOI, MAGNET, https://undecorated.us/) 
 * 아름지기문화재단, Intern (2012~2013)
 * 한국종합건축사무소, Intern (2011)
+
+"/assets/port_sample.png"
