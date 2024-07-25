@@ -3,7 +3,7 @@ title: "Portfolio"
 permalink: /portfolio/
 layout: single
 ---
-![](./assets/port_sample.png)
+![](https://github.com/w0016/w0016.github.io/blob/master/assets/port_sample.jpg)
 ![](./assets/park.png)
 ![](./assets/total.png)
 ![](./assets/hae1.png)
