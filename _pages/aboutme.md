@@ -25,6 +25,7 @@ layout: single
 * 실내형 공개공간의 필요성과 방향성. 대한건축학회 학생기자단 기사, 66(3), 89-90. 박소연 외(2022).
 
 * Kim, J. W., & Kang, B. (2024, July 8-12). Redefining urban neighborhoods: Applying the 15-minute city concept in Seoul [Conference session]. AESOP Annual Congress, Paris, France.
+
   
 **Projects**   
 * 동네는 어디인가? 휴대폰 위치데이터 기반 근린이용패턴 분석 (한국연구재단/강범준/2023.03~)
