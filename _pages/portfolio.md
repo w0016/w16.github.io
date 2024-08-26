@@ -9,6 +9,7 @@ layout: single
 <center><img src="/assets/as.PNG" width="100%" height="100%" /></center>
 <center><img src="/assets/mobile.PNG" width="100%" height="100%" /></center>
 <center><img src="/assets/final jacrd-03.png" width="100%" height="100%" /></center>
-<center><img src="/assets/0325_network.PNG" width="60%" height="60%" /></center>
-<center><img src="/assets/hae1.JPG" width="60%" height="60%" /></center>
-<center><img src="/assets/hae2.JPG" width="60%" height=60%" /></center>
+<center><img src="/assets/0325_network.PNG" width="80%" height="80%" /></center>
+<center><img src="/assets/hae2.JPG" width="80%" height=80%" /></center>
+<center><img src="/assets/hae1.JPG" width="80%" height="80%"/></center>
+
