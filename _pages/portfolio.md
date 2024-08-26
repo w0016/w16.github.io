@@ -9,4 +9,4 @@ layout: single
 
 
 ![a](/assets/zoom3.PNG)
-<center><img src="./assets/zoom3.PNG" /></center>
+<center><img src="/assets/zoom3.PNG" /></center>
