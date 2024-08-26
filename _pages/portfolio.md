@@ -8,6 +8,6 @@ layout: single
 ![](./assets/total.png)
 ![](./assets/hae1.png)
 ![](./assets/hae2.png)
-![~](./assets/줌인2.PNG)
+![~](./assets/zoom3.PNG)
 
 
