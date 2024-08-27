@@ -3,6 +3,11 @@ title: "ABOUT ME"
 permalink: /about/
 layout: single
 ---
+
+**Jung Woo Kim**
+* 서울대학교 건축도시공간연구실 박사과정
+* w0016@snu.ac.kr
+
   
 **Education**
 * 서울대학교 건축학과 공학박사 수료(2022)   
