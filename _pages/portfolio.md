@@ -3,6 +3,9 @@ title: "Portfolio"
 permalink: /portfolio/
 layout: single
 ---
+[View My HTML Document](https://w0016.github.io/assets/seoulgrid_working_3000.html)
+<iframe src="https://w0016.github.io/assets/seoulgrid_working_3000.html" width="100%" height="500"></iframe>
+
 <center>
     <iframe src="/assets/seoulgrid_working_3000.html" width="100%" height="800"></iframe>
 </center>
