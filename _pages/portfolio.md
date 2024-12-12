@@ -3,7 +3,6 @@ title: "Portfolio"
 permalink: /portfolio/
 layout: single
 ---
-[공간적 분리](https://w0016.github.io/assets/seoulgrid_working_3000.html)
 <center>
     <iframe src="/assets/seoulgrid_working_3000.html" width="100%" height="800"></iframe>
 </center>
